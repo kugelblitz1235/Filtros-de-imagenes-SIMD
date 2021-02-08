@@ -1,0 +1,2 @@
+# Filtros-de-imagenes-SIMD
+Este trabajo práctico consiste en implementar filtros gráficos utilizando el modelo de procesamiento SIMD. El TP consta de dos componentes igualmente importantes. En primer lugar aplicaremos lo estudiado en clase programando de manera vectorizada un conjunto de filtros. Luego, considerando las caracterı́sticas de microarquitectura del procesador, se pedirá realizar un análisis experimental del funcionamiento de los filtros. Estos serán codificados en lenguaje ensamblador y lenguaje C.
